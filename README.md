@@ -44,7 +44,7 @@ To achieve my goals, I've outlined a learning path that includes:
 
 I believe that hands-on experience is crucial in DevOps. Some of the projects I'm working on or planning to undertake include:
 
-- **Project 1:** [Brief description of the project]
+- **Project 1:**[ A simple Jenkins Pipeline Script ] (https://github.com/ToluOlorode/Deployment-Pipeline)
 - **Project 2:** [Brief description of the project]
 - **Project 3:** [Brief description of the project]
 
