@@ -46,7 +46,7 @@ I believe that hands-on experience is crucial in DevOps. Some of the projects I'
 
 - **Project 1:** A simple Jenkins Pipeline Script -(https://github.com/ToluOlorode/Deployment-Pipeline)
 - **Project 2:** A more advanced Jenkins Pipeline Script with Docker Deployment - (https://github.com/ToluOlorode/DockerPipeline.git)
-- **Project 3:** [Brief description of the project]
+- **Project 3:** Created a Jenkins CICD that prompts a manual approval before deploying to a Nginx server - (https://github.com/ToluOlorode/Jenkins_CICD)
 
 These projects will not only enhance my skills but also serve as evidence of my progress.
 
