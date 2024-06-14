@@ -1,81 +1,62 @@
-### Hi there 👋
-
-# Aspiring DevOps Engineer
-
-Welcome to my DevOps journey! This repository serves as a documentation hub for my ongoing learning and experimentation in the field of DevOps. Here, I'll share my progress, projects, and the tools and practices I'm exploring as I work towards becoming a proficient DevOps engineer.
-
-## Table of Contents
-
-- [About Me](#about-me)
-- [Goals](#goals)
-- [Learning Path](#learning-path)
-- [Projects](#projects)
-- [Tools](#tools)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [License](#license)
+# Welcome to My GitHub Profile!
 
 ## About Me
 
-I'm Tolu Olorode (she/her), a passionate tech enthusiast with a strong interest in DevOps. I'm excited to embark on this journey to master DevOps principles and practices.
-⚡ Fun fact **I am currently self-learning Blender so that I can create Custom Content for The Sims 4**
+Hi there! I'm an aspiring **Python Developer** with a strong interest in **DevOps** practices and a passion for creating **Sims 4 Mods**. This diverse skill set allows me to blend creative and technical aspects, bringing unique and innovative solutions to life.
 
-## Goals
+### Skills and Interests
 
-My primary goals as an aspiring DevOps engineer are:
+- **Python Development**: Proficient in writing clean, efficient, and maintainable Python code.
+- **DevOps**: Skilled in automating and optimizing development workflows, continuous integration, and deployment processes.
+- **Sims 4 Modding**: Experienced in creating custom content and mods for The Sims 4, enhancing gameplay and adding new features.
+  
+## Skills and Technologies
+### Programming Languages
+- **Python**: My primary programming language for developing various applications and scripts.
+- **Bash/Shell Scripting**: For automating tasks and managing systems.
 
-- Gain proficiency in automating and streamlining software development and deployment processes.
-- Learn to orchestrate and manage containerized applications using technologies like Docker and Kubernetes.
-- Implement and maintain CI/CD pipelines to ensure fast and reliable software delivery.
-- Develop a deep understanding of infrastructure as code (IaC) and configuration management.
-- Acquire knowledge of cloud platforms such as AWS, Azure, or GCP.
-- Continuously improve monitoring, logging, and incident response practices.
+### DevOps Tools and Practices
+- **Version Control**: Git, GitHub
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Jenkins
+- **Containerization**: Docker
+- **Orchestration**: Kubernetes
+- **Infrastructure as Code (IaC)**: Terraform
+- **Cloud Platforms**: AWS
 
-## Learning Path
+### Projects and Contributions
 
-To achieve my goals, I've outlined a learning path that includes:
+Here are some highlights of my work and projects:
 
-- **Courses:** I am currently taking a Devops Engineer course with Learnwithpride to help build a strong foundation. I have also taken the Devops Beginners to Advanced with Projects on Udemy.
-- **Certifications:** I aim to earn certifications such as DevOps on AWS Specialization on Coursera and AWS to validate my skills.
-- **Hands-On Projects:** I'll be working on practical projects to apply what I learn and gain real-world experience.
-- **Reading:** Regularly reading books, blogs, and documentation to stay updated with the latest trends and best practices in DevOps.
+#### Python Projects
+- **[TO DO APP](https://github.com/ToluOlorode/PythonProjects/blob/main/todo.py)**
+- **[Rock Paper Scissors Game](https://github.com/ToluOlorode/PythonProjects/blob/main/rps_game.py)**
 
-## Projects
+#### DevOps Projects
+- **[Jenkins Pipeline Script with Docker](https://github.com/ToluOlorode/DockerPipeline)**
+- **[Jenkins CI/CD](https://github.com/ToluOlorode/Jenkins_CICD)**
 
-I believe that hands-on experience is crucial in DevOps. Some of the projects I'm working on or planning to undertake include:
+#### Sims 4 Mods
+- **[Fashion Designer](https://www.patreon.com/posts/fashion-designer-105152706)**
+- **[WNBA Career](https://www.patreon.com/posts/wnba-wsba-career-96813282)**
 
-- **Project 1:** A simple Jenkins Pipeline Script -(https://github.com/ToluOlorode/Deployment-Pipeline)
-- **Project 2:** A more advanced Jenkins Pipeline Script with Docker Deployment - (https://github.com/ToluOlorode/DockerPipeline.git)
-- **Project 3:** Created a Jenkins CICD that prompts a manual approval before deploying to a Nginx server - (https://github.com/ToluOlorode/Jenkins_CICD)
+### Learning and Growth
 
-These projects will not only enhance my skills but also serve as evidence of my progress.
+I'm constantly learning and evolving my skill set. Here are some areas I'm currently focusing on:
 
-## Tools
+- Advanced Python programming techniques
+- Containerization and orchestration with Docker and Kubernetes
+- Creating more complex and interactive Sims 4 mods
 
-I'll be using a variety of DevOps tools and technologies, including:
 
-- **Version Control:** Git
-- **Continuous Integration:** Jenkins
-- **Containerization:** Docker
-- **Orchestration:** Kubernetes
-- **Configuration Management:** Ansible
-- **Cloud Platforms:** AWS 
-- **Collaboration:** Microsoft Teams
-- **Scripting:** Shell scripting, Python
+### Get Involved
 
-## Resources
-
-To help others who are also aspiring DevOps engineers, I'll maintain a list of valuable resources, including books, online courses, tutorials, and blog posts. Feel free to check out the [Resources](resources.md) file in this repository.
-
-## Contributing
-
-I welcome contributions, suggestions, and feedback from the DevOps community. If you have any insights, recommendations, or want to collaborate on a project, please open an issue or submit a pull request.
+I welcome collaboration on open-source projects and love to contribute to the community. If you're interested in working together or have a project that aligns with my interests, let's chat!
 
 📫 How to reach me **t.oyefeso@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shegoesblah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shegoesblah" height="30" width="40" /></a>
+<a href="https://twitter.com/danitysimmer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shegoesblah" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/toyefeso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="toyefeso" height="30" width="40" /></a>
 </p>
 
